@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\layout_activity_region.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\layout\\activity_region.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-hdpi_ic_climas_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-hdpi\\ic_climas_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-anydpi-v26_ic_climas_round.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-anydpi-v26\\ic_climas_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-pngs-0:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\layout_item_country.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\layout\\item_country.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\layout_activity_regions.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\layout\\activity_regions.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xhdpi_ic_climas_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xhdpi\\ic_climas_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxxhdpi_ic_climas_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxxhdpi\\ic_climas_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-hdpi_ic_climas.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-hdpi\\ic_climas.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-hdpi_ic_clima.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-hdpi\\ic_clima.webp"
+    },
+    {
+        "merged": "com.example.elDesafio03.app-debug-4:/layout_item_region.xml.flat",
+        "source": "com.example.elDesafio03.app-main-6:/layout/item_region.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-mdpi_ic_climas.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-mdpi\\ic_climas.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxhdpi_ic_climas.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxhdpi\\ic_climas.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxhdpi_ic_climas_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxhdpi\\ic_climas_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\drawable_ic_climas_background.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\drawable\\ic_climas_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\drawable_ic_clima_background.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\drawable\\ic_clima_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-anydpi-v26_ic_clima.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-anydpi-v26\\ic_clima.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-pngs-0:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-pngs-0:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxxhdpi_ic_clima_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxxhdpi\\ic_clima_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxhdpi_clima.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxhdpi\\clima.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-mdpi_ic_clima.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-mdpi\\ic_clima.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\drawable_ic_placeholder.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\drawable\\ic_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-pngs-0:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-anydpi-v26_ic_clima_round.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-anydpi-v26\\ic_clima_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxhdpi_ic_clima.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxhdpi\\ic_clima.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\drawable-anydpi-v24_ic_clima.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-pngs-0:\\drawable-anydpi-v24\\ic_clima.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-mdpi_ic_climas_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-mdpi\\ic_climas_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-anydpi-v26_ic_climas.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-anydpi-v26\\ic_climas.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xhdpi_ic_clima.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xhdpi\\ic_clima.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxxhdpi_ic_climas.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxxhdpi\\ic_climas.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-hdpi_clima.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-hdpi\\clima.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\layout_activity_countries.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\layout\\activity_countries.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxxhdpi_ic_clima.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxxhdpi\\ic_clima.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-mdpi_clima.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-mdpi\\clima.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-pngs-0:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xhdpi_ic_clima_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xhdpi\\ic_clima_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\layout_activity_country_detail.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\layout\\activity_country_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xhdpi_clima.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xhdpi\\clima.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxxhdpi_clima.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxxhdpi\\clima.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxhdpi_ic_clima_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxhdpi\\ic_clima_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\drawable_ic_error.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\drawable\\ic_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\layout_item_region.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\layout\\item_region.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-hdpi_ic_clima_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-hdpi\\ic_clima_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-xhdpi_ic_climas.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-xhdpi\\ic_climas.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-pngs-0:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\mipmap-mdpi_ic_clima_round.webp.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\mipmap-mdpi\\ic_clima_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-debug-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.10.2\\com.example.elDesafio03.app-main-6:\\xml\\data_extraction_rules.xml"
+    }
+]

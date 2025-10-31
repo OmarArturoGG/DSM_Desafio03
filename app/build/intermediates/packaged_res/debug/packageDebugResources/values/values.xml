@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#DDE4ED</color>
+    <color name="black">#FF000000</color>
+    <color name="card_color">#B4C9DD</color>
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#334155</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">El Desafio 03</string>
+    <string name="loading">Espere, esta cargando jiji</string>
+    <style name="Base.Theme.AppLista_" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.AppLista_" parent="Base.Theme.AppLista_"/>
+</resources>

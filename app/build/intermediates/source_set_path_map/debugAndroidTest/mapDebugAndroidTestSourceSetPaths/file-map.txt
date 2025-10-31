@@ -1,0 +1,6 @@
+com.example.elDesafio03.test.app-androidTest-0 C:\Tareas_uni\ded\elDesafio03\app\build\generated\res\resValues\androidTest\debug
+com.example.elDesafio03.test.app-mergeDebugAndroidTestResources-1 C:\Tareas_uni\ded\elDesafio03\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.elDesafio03.test.app-mergeDebugAndroidTestResources-2 C:\Tareas_uni\ded\elDesafio03\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.elDesafio03.test.app-debugAndroidTest-3 C:\Tareas_uni\ded\elDesafio03\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.example.elDesafio03.test.app-core-1.5.0-4 C:\Users\omara\.gradle\caches\8.10.2\transforms\56ce5c1d8c664e7882e3ad4175da1c5b\transformed\core-1.5.0\res
+com.example.elDesafio03.test.app-annotation-experimental-1.3.0-5 C:\Users\omara\.gradle\caches\8.10.2\transforms\8205b6c004ff27866740e0d867b65e24\transformed\annotation-experimental-1.3.0\res
